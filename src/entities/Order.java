@@ -79,13 +79,21 @@ public class Order {
     public String toString(){
 
         StringBuilder sb = new StringBuilder();
+        System.out.println("ORDER SUMMARY: ");
+        System.out.print("Order moment: ");
         sb.append(sdf.format(moment) +"\n");
+        System.out.print("Order status: ");
         sb.append(status +"\n");
+        System.out.print("Client: ");
         sb.append(client +"\n");
+        System.out.println("Order items: ");
         for(OrderItem item : items){
             sb.append(item +"\n");
         }
-        sb.append()
+        System.out.print("Total price: ");
+        sb.append(total());
+        sb.append(String.format("%.2f", total()));
+        return sb.toString();
 
 
     }
