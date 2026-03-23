@@ -8,6 +8,17 @@ public class Client {
     private String email;
     private Date birthDate;
 
+    public Client(){
+
+    }
+
+    public Client(String name, String email, Date birthDate) {
+        this.name = name;
+        this.email = email;
+        this.birthDate = birthDate;
+
+    }
+
     public String getName() {
         return name;
     }
@@ -32,5 +43,8 @@ public class Client {
         this.birthDate = birthDate;
     }
 
-
+    @Override
+    public String toString() {
+        return name + "(" + birthDate + ")" +" - " + email;
+    }
 }
