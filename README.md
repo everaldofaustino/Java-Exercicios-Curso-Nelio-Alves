@@ -67,10 +67,6 @@ git clone https://github.com/seu-usuario/curso-java-nelio-alves.git
 - **Workshop 2** - Aplicação com JDBC
 - **Workshop 3** - API REST com Spring Boot
 
-## 📖 Certificado
-
-- [Link do Certificado](https://www.udemy.com/certificate/...)
-
 ## 👨‍🏫 Instrutor
 
 **Nélio Alves** - Desenvolvedor e instrutor na Udemy
