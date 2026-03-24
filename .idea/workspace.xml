@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="592d4bbd-60b4-4868-9714-db4a2b7de452" name="Changes" comment="Parcial" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modulo-1-13-enumeracoes" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;everaldofaustino&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:everaldofaustino/Java---Exerc-cios---Curso-N-lio-Alves.git&quot;,
+    &quot;accountId&quot;: &quot;8e7717cb-f492-4dd4-bc28-85ce00333819&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="39z4M2MeFARVLZb59ucWMMKik0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbaixoDaMedia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Alturas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aprovados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DadosPessoas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaiorPosicao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaisVelho.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MediaPares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumerosPares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SomaVetor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SomaVetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaConta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaCurrencyDolar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaFuncionario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaPensionato.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.negativos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vector.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="592d4bbd-60b4-4868-9714-db4a2b7de452" name="Changes" comment="" />
+      <created>1771685516117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771685516117</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Parcial">
+      <option name="closed" value="true" />
+      <created>1774048861657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774048861657</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Parcial">
+      <option name="closed" value="true" />
+      <created>1774049437347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774049437347</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Parcial">
+      <option name="closed" value="true" />
+      <created>1774050397354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774050397354</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Parcial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parcial" />
+  </component>
+</project>
