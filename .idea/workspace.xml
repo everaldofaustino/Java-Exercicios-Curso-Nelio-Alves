@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="592d4bbd-60b4-4868-9714-db4a2b7de452" name="Changes" comment="Parcial" />
+    <list default="true" id="592d4bbd-60b4-4868-9714-db4a2b7de452" name="Changes" comment="Parcial">
+      <change afterPath="$PROJECT_DIR$/modulo-14-heranca/project/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-14-heranca/project/src/entities/ImportedProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-14-heranca/project/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-14-heranca/project/src/entities/UsedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modulo-1-13-enumeracoes" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
