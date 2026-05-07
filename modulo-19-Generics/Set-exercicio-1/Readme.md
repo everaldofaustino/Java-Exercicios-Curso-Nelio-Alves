@@ -1,10 +1,9 @@
 # 🔐 Log Access Analyzer
 
-https://img.shields.io/badge/Java-17%252B-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/License-MIT-green?style=for-the-badge
-https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge
-https://img.shields.io/badge/File-IO-blue?style=for-the-badge
-https://img.shields.io/badge/Data%2520Structure-Set-orange?style=for-the-badge
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge) 
+
+
+
 
 
 
