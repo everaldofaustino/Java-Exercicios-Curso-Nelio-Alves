@@ -24,13 +24,13 @@ public class Program2 {
 
         DepartmentDao departmentDao = DaoFactory.createDepartmentDao();
 
-      /*  System.out.println("=== TEST 1: Department findById ===");
+        System.out.println("=== TEST 1: Department findById ===");
 
         Department department = departmentDao.findById(3);
 
         System.out.println(department);
 
-
+/*
 
         System.out.println("\n=== TEST 2: seller findAll =====");
         list = sellerDao.findAll();
@@ -40,13 +40,13 @@ public class Program2 {
             System.out.println(obj);
         }
 
-*/
+
         System.out.println("\n=== TEST 3: department insert =====");
 
         Department newDepartment = new Department(null,"Almoxarifado");
         departmentDao.insert(newDepartment);
         System.out.println("Inserted! New id = " + newDepartment.getId());
-/*
+
         System.out.println("\n=== TEST 5: seller update =====");
 
         seller = sellerDao.findById(1);
