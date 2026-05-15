@@ -8,6 +8,7 @@ import model.entities.Seller;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
@@ -30,13 +31,15 @@ public class Program2 {
 
         System.out.println(department);
 
-/*
+
 
         System.out.println("\n=== TEST 2: seller findAll =====");
-        list = sellerDao.findAll();
 
 
-        for (Seller obj : list){
+        List<Department> list  = departmentDao.findAll();
+
+
+        for (Department obj : list){
             System.out.println(obj);
         }
 
@@ -49,21 +52,21 @@ public class Program2 {
 
         System.out.println("\n=== TEST 5: seller update =====");
 
-        seller = sellerDao.findById(1);
+        department = departmentDao.findById(1);
 
-        seller.setName("Martha");
-        sellerDao.update(seller);
+        department.setName("TI");
+        departmentDao.update(department);
         System.out.println("Update completed");
 
 
-        System.out.println("\n=== TEST 6: seller delete =====");
+        System.out.println("\n=== TEST 6: department delete =====");
 
         System.out.println("Enter id for delete test: ");
 
         int id = sc.nextInt();
-        sellerDao.deleteById(id);
+       departmentDao.deleteById(id);
         System.out.println("Delete completed");
-*/
+
         sc.close();
 
     }
